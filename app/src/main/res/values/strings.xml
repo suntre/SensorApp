@@ -4,7 +4,7 @@
     <string name="show_sensors_count">Pokaż podtytuł</string>
     <string name="hide_sensors_count">Ukryj podtytuł</string>
     <string name="missing_sensor">Brak czujnika</string>
-    <string name="light_sensor_label">Wartość czujnika: %f</string>
+    <string name="light_sensor_label">Wartość czujnika światła: %f</string>
     <string name="orientation_sensor_label">
         Rotacja \n
         Wartość 1: %f \n

@@ -5,7 +5,9 @@
 
     </style>
     <style name="list_item">
-        <item name="android:layout_marginBottom">10sp</item>
+        <item name="contentPaddingBottom">10sp</item>
+        <item name="contentPaddingTop">10sp</item>
+        <item name="android:layout_marginBottom">2dp</item>
     </style>
     <style name="text_style">
         <item name="android:layout_marginStart">2dp</item>
