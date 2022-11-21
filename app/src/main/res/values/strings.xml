@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SensorApp</string>
+    <string name="sensors_count">Liczba czujników: %d</string>
+    <string name="show_sensors_count">Pokaż podtytuł</string>
+    <string name="hide_sensors_count">Ukryj podtytuł</string>
+    <string name="missing_sensor">Brak czujnika</string>
+    <string name="light_sensor_label">Wartość czujnika: %f</string>
+    <string name="orientation_sensor_label">
+        Rotacja \n
+        Wartość 1: %f \n
+        Wartość 2: %f \n
+        Wartość 3: %f</string>
+    <string name="get_localisation">Pobierz lokalizację</string>
+    <string name="tip_localisation">Wciśnij przycisk, aby pobrać ostatnią lokalizację</string>
+    <string name="location_permission_denied">Brak uprawnień do pobrania lokalizacji</string>
+    <string name="no_location">Wystąpił problem podczas pobrania lokalizacji</string>
+    <string name="location_text">Szerokość geograficzna: %1$.4f \n Długość geograficzna: %2$.4f \n Czas: %3$tr</string>
+    <string name="get_address">Pobierz adres</string>
+    <string name="address_text">Adres: %1$s \n Czas: %2$tr</string>
+    <string name="service_not_available">Serwis Geocoder niedostępny</string>
+    <string name="no_address_found">Adres nieznaleziony</string>
+</resources>
